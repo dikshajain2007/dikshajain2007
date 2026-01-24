@@ -10,7 +10,7 @@
 - 🔭 I’m currently learning **full-stack web development using the MERN stack**
 - 👯 I’m looking to collaborate on **real-world projects, open-source, and hackathons**
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif"/>
 </p>
 
 
