@@ -1,6 +1,10 @@
 <h1 align="center">Hi👋, I'm Diksha Jain</h1>
 <h3 align="center">An Aspiring Full Stack Web Developer 🚀 | Practicing DSA 🧠</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dikshajain2007&label=Profile%20views&color=0e75b6&style=flat" alt="dikshajain2007" />
+</p>
+
 ### 👩‍💻 About Me
 
 - 🔭 I’m currently learning **full-stack web development using the MERN stack**
