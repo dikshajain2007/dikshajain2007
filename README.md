@@ -1,8 +1,8 @@
 ## Hi👋, I'm Diksha Jain
 
 👩‍💻 About Me
-🔭 I’m currently learning full-stack web development using the MERN stack
-👯 I’m looking to collaborate on real-world projects, open-source, and hackathons
+•🔭 I’m currently learning full-stack web development using the MERN stack
+•👯 I’m looking to collaborate on real-world projects, open-source, and hackathons
 <!--
 **dikshajain2007/dikshajain2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
