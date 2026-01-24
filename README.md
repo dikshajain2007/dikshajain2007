@@ -1,6 +1,8 @@
 <h1 align="center">Hi👋, I'm Diksha Jain</h1>
 <h3 align="center">An Aspiring Full Stack Web Developer 🚀 | Practicing DSA 🧠</h3>
 
+### 👩‍💻 About Me
+
 - 🔭 I’m currently learning **full-stack web development using the MERN stack**
 - 👯 I’m looking to collaborate on **real-world projects, open-source, and hackathons**
 
