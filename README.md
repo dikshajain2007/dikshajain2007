@@ -23,7 +23,6 @@
 
 ### 🔗 Connect with Me
 
-📫 **Let’s Connect**  
 [📧 Email Me](mailto:dialdikshajain@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/dikshajain2007/)
 
 ---
