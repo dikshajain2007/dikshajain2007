@@ -18,12 +18,6 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 
-📊 **Most Used Languages**  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikshajain2007&layout=compact&theme=tokyonight" />
-</p>
-
-
 
 
 
